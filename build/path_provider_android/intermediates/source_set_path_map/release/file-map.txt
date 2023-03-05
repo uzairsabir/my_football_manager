@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-0 /Users/farazalishah/.gradle/caches/transforms-3/811aef318fe35d25e22aa9113bf4ed57/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-1 /Users/farazalishah/.gradle/caches/transforms-3/b26763f2a81758d6e59d0e319aa5f814/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-2 /Users/farazalishah/.gradle/caches/transforms-3/cc21001e630d94d69343f7cd6b012d12/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-3 /Users/farazalishah/.gradle/caches/transforms-3/cc9ca315e7d9f93e590aa1e1957aa5f3/transformed/core-1.6.0/res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.21/android/src/main/res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.21/android/src/release/res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/path_provider_android/generated/res/pngs/release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/path_provider_android/generated/res/resValues/release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/path_provider_android/generated/res/rs/release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/path_provider_android/intermediates/merged_res/release

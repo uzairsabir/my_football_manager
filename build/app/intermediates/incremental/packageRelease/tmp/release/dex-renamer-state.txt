@@ -1,0 +1,4 @@
+#Sun Mar 05 21:25:12 GMT 2023
+base.0=/Users/farazalishah/Desktop/MyProjects/my_football_manager/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

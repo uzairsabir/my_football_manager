@@ -1,0 +1,16 @@
+com.lyokone.location-media-1.0.0-0 /Users/farazalishah/.gradle/caches/transforms-3/030ade3f414b53c6f009b28895d8fd1e/transformed/media-1.0.0/res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-1 /Users/farazalishah/.gradle/caches/transforms-3/811aef318fe35d25e22aa9113bf4ed57/transformed/jetified-window-java-1.0.0-beta04/res
+com.lyokone.location-jetified-play-services-base-16.0.1-2 /Users/farazalishah/.gradle/caches/transforms-3/87f9e36188e6dc2347a0dcf0b1d440cd/transformed/jetified-play-services-base-16.0.1/res
+com.lyokone.location-jetified-window-1.0.0-beta04-3 /Users/farazalishah/.gradle/caches/transforms-3/b26763f2a81758d6e59d0e319aa5f814/transformed/jetified-window-1.0.0-beta04/res
+com.lyokone.location-jetified-play-services-basement-16.0.1-4 /Users/farazalishah/.gradle/caches/transforms-3/b2e84b14775ec2d3816710f930e836a2/transformed/jetified-play-services-basement-16.0.1/res
+com.lyokone.location-jetified-annotation-experimental-1.1.0-5 /Users/farazalishah/.gradle/caches/transforms-3/cc21001e630d94d69343f7cd6b012d12/transformed/jetified-annotation-experimental-1.1.0/res
+com.lyokone.location-core-1.6.0-6 /Users/farazalishah/.gradle/caches/transforms-3/cc9ca315e7d9f93e590aa1e1957aa5f3/transformed/core-1.6.0/res
+com.lyokone.location-coordinatorlayout-1.0.0-7 /Users/farazalishah/.gradle/caches/transforms-3/f46fec3a64769c80aef039759075bc2b/transformed/coordinatorlayout-1.0.0/res
+com.lyokone.location-main-8 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/android/src/main/res
+com.lyokone.location-release-9 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/android/src/release/res
+com.lyokone.location-pngs-10 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/location/generated/res/pngs/release
+com.lyokone.location-resValues-11 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/location/generated/res/resValues/release
+com.lyokone.location-rs-12 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/location/generated/res/rs/release
+com.lyokone.location-mergeReleaseResources-13 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/location/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.lyokone.location-mergeReleaseResources-14 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/location/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.lyokone.location-merged_res-15 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/location/intermediates/merged_res/release

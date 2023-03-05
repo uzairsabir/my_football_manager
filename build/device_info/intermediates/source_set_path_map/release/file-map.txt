@@ -1,0 +1,12 @@
+io.flutter.plugins.deviceinfo.device_info-jetified-window-java-1.0.0-beta04-0 /Users/farazalishah/.gradle/caches/transforms-3/811aef318fe35d25e22aa9113bf4ed57/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.deviceinfo.device_info-jetified-window-1.0.0-beta04-1 /Users/farazalishah/.gradle/caches/transforms-3/b26763f2a81758d6e59d0e319aa5f814/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.deviceinfo.device_info-jetified-annotation-experimental-1.1.0-2 /Users/farazalishah/.gradle/caches/transforms-3/cc21001e630d94d69343f7cd6b012d12/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.deviceinfo.device_info-core-1.6.0-3 /Users/farazalishah/.gradle/caches/transforms-3/cc9ca315e7d9f93e590aa1e1957aa5f3/transformed/core-1.6.0/res
+io.flutter.plugins.deviceinfo.device_info-main-4 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/src/main/res
+io.flutter.plugins.deviceinfo.device_info-release-5 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/src/release/res
+io.flutter.plugins.deviceinfo.device_info-pngs-6 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info/generated/res/pngs/release
+io.flutter.plugins.deviceinfo.device_info-resValues-7 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info/generated/res/resValues/release
+io.flutter.plugins.deviceinfo.device_info-rs-8 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info/generated/res/rs/release
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-9 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-10 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.deviceinfo.device_info-merged_res-11 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info/intermediates/merged_res/release

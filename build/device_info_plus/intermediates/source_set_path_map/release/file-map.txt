@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-window-java-1.0.0-beta04-0 /Users/farazalishah/.gradle/caches/transforms-3/811aef318fe35d25e22aa9113bf4ed57/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-window-1.0.0-beta04-1 /Users/farazalishah/.gradle/caches/transforms-3/b26763f2a81758d6e59d0e319aa5f814/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-annotation-experimental-1.1.0-2 /Users/farazalishah/.gradle/caches/transforms-3/cc21001e630d94d69343f7cd6b012d12/transformed/jetified-annotation-experimental-1.1.0/res
+dev.fluttercommunity.plus.device_info.device_info_plus-core-1.6.0-3 /Users/farazalishah/.gradle/caches/transforms-3/cc9ca315e7d9f93e590aa1e1957aa5f3/transformed/core-1.6.0/res
+dev.fluttercommunity.plus.device_info.device_info_plus-main-4 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/device_info_plus-4.1.3/android/src/main/res
+dev.fluttercommunity.plus.device_info.device_info_plus-release-5 /Users/farazalishah/.pub-cache/hosted/pub.dartlang.org/device_info_plus-4.1.3/android/src/release/res
+dev.fluttercommunity.plus.device_info.device_info_plus-pngs-6 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.device_info.device_info_plus-resValues-7 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.device_info.device_info_plus-rs-8 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info_plus/generated/res/rs/release
+dev.fluttercommunity.plus.device_info.device_info_plus-mergeReleaseResources-9 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.device_info.device_info_plus-mergeReleaseResources-10 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.device_info.device_info_plus-merged_res-11 /Users/farazalishah/Desktop/MyProjects/my_football_manager/build/device_info_plus/intermediates/merged_res/release
