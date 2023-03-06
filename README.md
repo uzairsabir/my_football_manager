@@ -4,15 +4,16 @@ A Flutter based Android and IOS application enable you to get updates about your
 
 ## Getting Started
 
+The design pattern of this project base on MVVM. This project is a good example of how to implement MVVM pattern without violation of SOLID principle. Some of the highlights about the pillar of this project are as follow:
+
+* State Management - GETX
+* Local DB - HIVE 
+* Routing - GETX
+* Service Calling - Dio
+* ChangeListener - HIVE
+* Stateless and Statefull widgets
+* Customize Component base programming
+
+ 
 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
