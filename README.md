@@ -1,8 +1,10 @@
 # my_football_manager
 
-A new Flutter project.
+A Flutter based Android and IOS application enable you to get updates about your favourite football league. It also allow user to add a team in their favourite list. It also enable to view results of a particular team.  
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
