@@ -13,6 +13,17 @@ The design pattern of this project base on MVVM. This project is a good example 
 * ChangeListener - HIVE
 * Stateless and Statefull widgets
 * Customize Component base programming
+* Datasource - https://www.football-data.org/
+* SharedPreference 
+* Awesome Dialoge
+* Flutter Easyloading
+* Android video: https://www.dropbox.com/s/tyexfke8rokjt44/android.mp4?dl=0
+* IOS video: https://www.dropbox.com/s/6cj5g9j6sbcmj81/ios.mp4?dl=0
+
+
+
+
+Happy Coding...!
 
  
 
