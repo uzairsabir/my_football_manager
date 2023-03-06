@@ -1,0 +1,42 @@
+{
+  "app_name": "ایڈوانٹیج",
+
+  "loading" : "لوڈ ہو رہا ہے...",
+  "unable_to_parse" : "اوپس! تجزیہ کرنے سے قاصر ہیں، برائے مہربانی متعلقہ محکمہ سے رابطہ کریں۔",
+  "field_is_mandatory" : "* میدان لازمی ہے۔",
+  "submit" : "جمع کرائیں",
+  "not_internet" : "آپ انٹرنیٹ سے منسلک نہیں ہیں۔",
+  "not_gps" : "آپ کا GPS فی الحال آف ہے۔",
+
+  "login_page_email_password" : "ای میل اور پاس ورڈ خالی نہیں ہو سکتا",
+  "start_page_welcome_to" : "EDvantage میں خوش آمدید",
+  "login_page_login" : "لاگ ان کریں",
+  "login_page_your_email" : "آپ کا ای میل",
+
+  "main_page_add_institute" : "انسٹی ٹیوٹ شامل کریں",
+  "main_page_add_campus" : "کیمپس شامل کریں",
+  "main_page_google_map" : "گوگل کا نقشہ",
+  "main_page_view_edit_campus" : "کیمپس دیکھیں/ترمیم کریں",
+
+  "add_institute_name": "انسٹی ٹیوٹ کا نام درج کریں",
+  "add_institute_type": "انسٹی ٹیوٹ کی قسم منتخب کریں",
+  "add_institute_status": "انسٹی ٹیوٹ کی حیثیت کو منتخب کریں",
+
+  "add_campus_select_institute": "انسٹی ٹیوٹ کو منتخب کریں",
+  "add_campus_name": "کیمپس کا نام درج کریں",
+  "add_campus_type": "کیمپس کی قسم منتخب کریں",
+  "add_campus_status": "کیمپس کی حیثیت کو منتخب کریں",
+
+  "phone_1": "فون نمبر 1 درج کریں",
+  "phone_2": "فون نمبر 2 درج کریں",
+  "address_1": "ایڈریس نمبر 1 درج کریں",
+  "address_2": "ایڈریس نمبر 2 درج کریں",
+  "select_city": "شہر کا انتخاب کریں",
+  "select_area": "علاقہ منتخب کریں",
+  "enter_latitude": "عرض البلد داخل کریں",
+  "enter_longitude": "طول البلد درج کریں",
+  "enter_radius": "رداس درج کریں",
+  "enter_remarks": "ریمارکس درج کریں",
+  "enter_poc_name": "POC کا نام درج کریں",
+  "enter_poc_contact_number": "POC رابطہ نمبر درج کریں"
+}

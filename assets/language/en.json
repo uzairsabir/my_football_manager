@@ -1,0 +1,17 @@
+{
+  "app_name": "My Football Manager",
+  "loading" : "loading...",
+  "unable_to_parse" : "Ops! Unable to parse, kindly contact to concern department",
+  "field_is_mandatory" : "*Field is mandatory",
+  "submit" : "Submit",
+  "not_internet" : "You are not connected to the internet",
+  "not_gps" : "Your GPS is currently OFF",
+  "Home": "Home",
+  "Favourites": "Favourite",
+  "Settings": "Settings",
+  "Message":"Message",
+  "Something went wrong":"Something went wrong",
+  "Do you want to remove this item from your Favourite list?":"Do you want to remove this item from your Favourite list?"
+
+
+}
